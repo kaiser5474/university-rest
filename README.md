@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Primaeros pasos
+## Primeros pasos
 1. Run git clone https://github.com/kaiser5474/university.git
 
 2. Run composer install
@@ -20,9 +20,9 @@
 
 6. Run php artisan db:seed
 
-7. Run php artisan serve
+7. Run php artisan serve --port=8080
 
-8. Go to link localhost:8000 OR 127.0.0.1:8000
+8. Go to link localhost:8080 OR 127.0.0.1:8080
 
 ## Acerca del proyecto
 Este proyecto nos sirve para simular la BD de la Universidad, con la cual podemos obtener a traves del end-point http://localhost:8000/api/estudiantesEPN el Estudiante con todos los datos (carrera, nombres, apellidos, cedula, correo, teléfono, celular, epn, created_at, pdated_at)
