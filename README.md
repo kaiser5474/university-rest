@@ -8,7 +8,7 @@
 </p>
 
 ## Primeros pasos
-1. Run git clone https://github.com/kaiser5474/university.git
+1. Run git clone https://github.com/kaiser5474/university-rest.git
 
 2. Run composer install
 
